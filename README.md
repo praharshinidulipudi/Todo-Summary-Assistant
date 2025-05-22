@@ -25,7 +25,9 @@ Manage your tasks like a pro with AI-powered insights! With Todo Summary Assista
 
 Here’s how all parts of the system come together:
 
-![System Architecture](./assets/architecture-diagram.png)
+![architecture-diagram](https://github.com/user-attachments/assets/ff044c37-6962-49dd-8988-6bbdcfdb71ac)
+
+
 
 ---
 
